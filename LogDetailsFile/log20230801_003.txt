@@ -8,3 +8,15 @@
 2023-08-01 11:24:17.284 +07:00 [INF] Process : 0 file HR_Dashboard
 2023-08-01 11:24:58.539 +07:00 [INF] Process: 1 file HR_Terninate
 2023-08-01 11:24:58.724 +07:00 [INF] Process : 1 file HR_Dashboard
+2023-08-01 13:50:15.500 +07:00 [INF] Time Run Fail
+2023-08-01 13:50:16.038 +07:00 [INF] Process: 2 file HR_Terninate
+2023-08-01 13:50:16.062 +07:00 [INF] Time Run fail
+2023-08-01 13:50:16.172 +07:00 [INF] Process : 1 file HR_Dashboard
+2023-08-01 13:53:38.426 +07:00 [INF] Time run Job Fail
+2023-08-01 13:53:38.461 +07:00 [INF] Process: 0 file HR_Terninate
+2023-08-01 13:53:38.480 +07:00 [INF] Time Run fail
+2023-08-01 13:53:38.482 +07:00 [INF] Process : 0 file HR_Dashboard
+2023-08-01 13:55:40.655 +07:00 [INF] Time run Job Fail
+2023-08-01 13:55:40.690 +07:00 [INF] File Not Found
+2023-08-01 13:55:40.720 +07:00 [INF] Time Run fail
+2023-08-01 13:55:40.721 +07:00 [INF] File Not Found
