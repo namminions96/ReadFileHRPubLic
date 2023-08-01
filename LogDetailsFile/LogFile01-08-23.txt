@@ -139,3 +139,23 @@ StackTrace:    at Renci.SshNet.ClientAuthentication.Authenticate(IConnectionInfo
    at Read_xml.SftpHelper.DownloadAuthen(String source, String destination) in C:\Users\namnd4\source\repos\Read_xml\Read_xml\SftpHelper.cs:line 41
 
 =====================================================================
+8/1/2023 3:36:19 PM : Message: No suitable authentication method found to complete authentication (password).
+Source: Renci.SshNet
+StackTrace:    at Renci.SshNet.ClientAuthentication.Authenticate(IConnectionInfoInternal connectionInfo, ISession session)
+   at Renci.SshNet.ConnectionInfo.Authenticate(ISession session, IServiceFactory serviceFactory)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.CreateAndConnectSession()
+   at Renci.SshNet.BaseClient.Connect()
+   at Read_xml.SftpHelper.DownloadAuthen(String source, String destination) in C:\Users\namnd4\source\repos\Read_xml\Read_xml\SftpHelper.cs:line 41
+
+=====================================================================
+8/1/2023 3:36:20 PM : Message: No suitable authentication method found to complete authentication (password).
+Source: Renci.SshNet
+StackTrace:    at Renci.SshNet.ClientAuthentication.Authenticate(IConnectionInfoInternal connectionInfo, ISession session)
+   at Renci.SshNet.ConnectionInfo.Authenticate(ISession session, IServiceFactory serviceFactory)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.CreateAndConnectSession()
+   at Renci.SshNet.BaseClient.Connect()
+   at Read_xml.SftpHelper.DownloadAuthen(String source, String destination) in C:\Users\namnd4\source\repos\Read_xml\Read_xml\SftpHelper.cs:line 41
+
+=====================================================================
