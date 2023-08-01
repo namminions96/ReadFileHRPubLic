@@ -4,3 +4,7 @@
 2023-08-01 11:17:07.731 +07:00 [INF] Process : 1 file HR_Dashboard
 2023-08-01 11:18:28.570 +07:00 [INF] Process: 1 file HR_Terninate
 2023-08-01 11:18:28.773 +07:00 [INF] Process : 1 file HR_Dashboard
+2023-08-01 11:24:17.231 +07:00 [INF] Process: 0 file HR_Terninate
+2023-08-01 11:24:17.284 +07:00 [INF] Process : 0 file HR_Dashboard
+2023-08-01 11:24:58.539 +07:00 [INF] Process: 1 file HR_Terninate
+2023-08-01 11:24:58.724 +07:00 [INF] Process : 1 file HR_Dashboard
